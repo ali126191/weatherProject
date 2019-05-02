@@ -1,0 +1,1 @@
+{"data":{"allWeatherData":{"totalCount":1,"edges":[{"node":{"currently":{"summary":"Mostly Cloudy","icon":"partly-cloudy-night","temperature":42.37,"pressure":1010.39,"visibility":10}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}

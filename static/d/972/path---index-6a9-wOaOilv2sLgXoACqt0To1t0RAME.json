@@ -1,0 +1,1 @@
+{"data":{"allWeatherData":{"totalCount":1,"edges":[{"node":{"currently":{"time":1556764435,"summary":"Partly Cloudy","icon":"partly-cloudy-day","temperature":71.29,"pressure":1003.58,"visibility":10}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}
